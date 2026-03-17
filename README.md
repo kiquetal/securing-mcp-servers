@@ -34,6 +34,10 @@ This course covers security vulnerabilities in Model Context Protocol (MCP) impl
 - Basic understanding of MCP concepts and use cases
 - Experience with API/penetration testing (helpful but not required)
 
+## Course Materials
+
+- [Course Slides (PDF)](docs/securingmcpservers1772128348743.pdf)
+
 ## Recommended Resources
 
 - Book: [*Building Applications with AI Agents*](https://www.oreilly.com/library/view/ai-agents-with/9798341639546/)

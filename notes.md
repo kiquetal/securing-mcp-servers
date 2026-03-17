@@ -29,6 +29,9 @@ System Prompt = The persistent instruction set that defines the agent's role, li
 Planning & Reasoning Loop = The mechanism that lets an agent: break a goal into steps, decided which actions to take, observer results, adjust the plan
 This is what turns the chatbot into an agent that can act autonomously
 
+Retrieval-Augmented Geneartion: A tecnhique where the agent retrieves external data, and injects it into the prompt/memory 
+
+Tool = are mcp, functions the agent can invoke to affect outside the LLM. command line
 
 #### Images
 

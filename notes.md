@@ -20,3 +20,9 @@ Tool misuse
 - Lack of Audit and Telemetry
 - Shadow MCP Servers
 - Context injection & over-sharing
+
+
+
+#### Images
+
+![Contrasting API vs MCP Attacks](images/contrasting-api-mcp-attacks.png) 

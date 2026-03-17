@@ -51,3 +51,5 @@ Usually expressed as permission, asking the user for confirmation.
 #### Images
 
 ![Contrasting API vs MCP Attacks](images/contrasting-api-mcp-attacks.png) 
+
+![Attack Surface](images/attack-surface.png)

@@ -33,6 +33,10 @@ Retrieval-Augmented Geneartion: A tecnhique where the agent retrieves external d
 
 Tool = are mcp, functions the agent can invoke to affect outside the LLM. command line
 
+Multi-Agent communications = Agent exchanging messges, plans or results. A2A is the new protocol that is enabling this alongisde MCP
+MCP can store A2A cards which enables the clients to discover how to use A2A.
+ 
+
 #### Images
 
 ![Contrasting API vs MCP Attacks](images/contrasting-api-mcp-attacks.png) 
